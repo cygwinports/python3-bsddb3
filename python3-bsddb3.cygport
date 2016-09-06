@@ -1,7 +1,7 @@
 inherit python3-distutils
 
 NAME="python3-bsddb3"
-VERSION=6.1.0
+VERSION=6.2.1
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Py3K Berkeley DB bindings"
